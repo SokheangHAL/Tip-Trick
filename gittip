@@ -1,0 +1,5 @@
+check the remote on the local : git remote -v
+delete the remote : git remote rm destination
+get the file from git : git clone [link HTTP]
+upload file : all : git add .
+upload file : 1 file: git add filename
