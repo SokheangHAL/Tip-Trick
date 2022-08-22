@@ -1,0 +1,10 @@
+## window 
+
+link config and run : https://www.youtube.com/watch?v=pAplsqK1bAk
+
+# ubuntu
+
+% ./configure 
+% make
+% sudo su
+# make install
